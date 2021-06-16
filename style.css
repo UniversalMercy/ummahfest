@@ -968,9 +968,9 @@ input:required {
     .single-welcome-slide .welcome-text-two .event-meta {
       position: relative;
       z-index: 1;
-      margin-bottom: 50px; }
+      margin-bottom: 35px; }
       .single-welcome-slide .welcome-text-two .event-meta a {
-        color: #ffffff;
+        color: #dc3545;
         margin-right: 40px; }
         @media only screen and (max-width: 767px) {
           .single-welcome-slide .welcome-text-two .event-meta a {
@@ -1088,6 +1088,7 @@ input:required {
       visibility: visible;
       opacity: 0.8; }
 
+
 .copywrite-content {
   border-top: 1px solid #414269;
   padding: 15px 0; }
@@ -1108,7 +1109,7 @@ input:required {
       color: #ffffff;
       font-weight: 400; }
       .copywrite-content .copywrite-text p a:hover, .copywrite-content .copywrite-text p a:focus {
-        color: #df42b1; }
+        color: #dc3545; }
   .copywrite-content .footer-menu {
     position: relative;
     z-index: 1; }
@@ -2733,5 +2734,10 @@ input:required {
         margin-bottom: 0; }
       .call-to-action-content .event-time p i {
         margin-right: 3px; }
+
+.slider-text p {
+    color: #df42b1;
+
+    }
 
 /*# sourceMappingURL=style.css.map */
