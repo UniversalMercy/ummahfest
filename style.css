@@ -98,19 +98,6 @@ ul {
     margin: 0;
     padding: 0; }
 
-.bg-overlay {
-  position: relative;
-  z-index: 1; }
-  .bg-overlay::before {
-    position: absolute;
-    content: "";
-    height: 100%;
-    width: 100%;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    background-color: rgba(0, 0, 0, 0.4); }
-
 .bg-gradient-overlay {
   position: relative;
   z-index: 1; }
@@ -611,8 +598,8 @@ input:required {
   .confer-btn-white i {
     margin-left: 5px; }
   .confer-btn-white:hover, .confer-btn-white:focus {
-    background-color: #df42b1;
-    border-color: #df42b1;
+    background-color: #faca48;
+    border-color: #faca48;
     color: #ffffff; }
 
 .confer-btn-white-2 {
