@@ -602,6 +602,30 @@ input:required {
     border-color: #faca48;
     color: #ffffff; }
 
+.confer-btn-white-3 {
+  position: relative;
+  z-index: 1;
+  height: 46px;
+  padding: 0 25px;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  border-radius: 23px;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 42px;
+  font-weight: 500;
+  -webkit-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  transition-duration: 500ms; }
+  .confer-btn-white-3 i {
+    margin-left: 5px; }
+  .confer-btn-white-3:hover, .confer-btn-white-3:focus {
+    background-color: #151853;
+    border-color: #faca48;
+    color: #ffffff; }
+
+
 .confer-btn-white-2 {
   position: relative;
   z-index: 1;
