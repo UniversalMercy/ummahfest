@@ -2615,7 +2615,7 @@ input:required {
         height: 150px; } }
     @media only screen and (max-width: 767px) {
       .our-sponsor-area2 .single-sponsor {
-        height: 80px; } }
+        height: 110px; } }
     .our-sponsor-area2 .single-sponsor a img {
       -webkit-transition-duration: 300ms;
       -o-transition-duration: 300ms;
